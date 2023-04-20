@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dCcu9oS291wyxuT38wTFRxRSJoela8AKOgjAVD7upac=",
+  "Source": "AspNetCore7.Swagger.Demo",
+  "BasePath": "_content/AspNetCore7.Swagger.Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

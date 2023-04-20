@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fsqKz06bzWSU9/RVT8wKIK157D2Xp8FJ716Ys3PsgZTIG1TpJraYNiNyDXiuLu7hi+Yg73vDZJHYUE5e+UT6jw==",
+  "success": true,
+  "projectFilePath": "/Users/vivekanandpv/RiderProjects/AspNetCore7.Swagger.Demo/AspNetCore7.Swagger.Demo.csproj",
+  "expectedPackageFiles": [
+    "/Users/vivekanandpv/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/vivekanandpv/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/vivekanandpv/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/vivekanandpv/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/vivekanandpv/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/vivekanandpv/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
